@@ -9,4 +9,5 @@ You just need the Python Image Library (Pillow)
 
 ## Usage
 run main.py and a window will pop up
-![interface](imageSteg/step.PNG)
+
+![interface](step.PNG)
